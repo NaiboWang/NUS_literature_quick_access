@@ -1,5 +1,5 @@
 # NUS Literature Quick Access
-For National University of Singapore's students and staffs, just with one single click you can open any papers without the need to login, input password, click Accept buttion and click many many times of web links.
+For National University of Singapore's students and staffs, just with one single click you can open any papers without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links.
 
 # Demo
 
@@ -29,4 +29,11 @@ https://greasyfork.org/en/scripts/453866-automatically-literature-validation-for
 
 https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-staff-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
-## 5. Enjoy it!
+## 5. Enjoy!
+
+- Every time you open the browser, you may need to login once, but as long as you don't close the browser, you don't need to login again.
+
+- You need the save your password in your browser, so that you don't need to input your password every time and the tool will help you to automatically click the $Login$ and $Accept$ button.
+
+- If you want to use this tool in other browsers, you need to install TamperMonkey and Endnote Click in other browsers.
+
