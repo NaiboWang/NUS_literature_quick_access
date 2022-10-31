@@ -18,10 +18,13 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 ## 1. Install Tampermonkey:
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-## 2. Install Endnote Click:
+## 2. Install Endnote Click (Optional):
+
+If you choose not to install Endnote Click, you will need to click two more times of mouse to download the pdf for 15% of the journals (mostly not mainstream), but mainstream journals are not affected even you don't install (such as IEEE, ACM, etc).
+
 https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc?hl=en
 
-## 3. Register and Login Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$:
+## 3. Register and Login Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$  (Optional):
 ![](media/endnote_click.png)
 ![](media/endnote_ins.png)
 
@@ -68,7 +71,9 @@ Just open the detail page, wait for 3 seconds and click the **View PDF** button 
 
 ![](media/ieeepdf.png)
 
-## 2. For some unpopular journals, click the **View PDF** button at the left bottom corner of the detailed page to get and download the pdf:
+## 2. For some unpopular journals, click the **View PDF** button at the left bottom corner of the detailed page to get and download the pdf （This requires install the endnote extension）:
+
+If you didn't install EndNote Click, skip this way and see way 3.
 
 E.g., https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001736
 
@@ -103,6 +108,12 @@ And you will find a link text of **Find it! @NUS Library**, click it:
 ### 3. Click the **Click to get Full Text** button (or Read Chapter button, depends on the paper contents):
 
 ![](media/clicktoget.png)
+
+This button will be automatically clicked by this tool, but some browser may block the popup window, so you need to allow the popup window to be opened:
+
+![](media/block.png)
+
+Or you can just manually click the button every time you open it.
 
 ### 4. Then you will have two options to open the final pdf:
 
