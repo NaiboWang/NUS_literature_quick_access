@@ -62,7 +62,7 @@ After test, this tool along with $Endnote$ extension worked for websites like **
 
 Just open the detail page, wait for 3 seconds and click the **View PDF** button to get and download the pdf (you only need to login once when you first open your browser, and the login process can also be automated, as long as you follow the instruction of this tool).
 
-![](media/IEEEpdf.png)
+![](media/ieeepdf.png)
 
 ## 2. For some unpopular journals, click the **View PDF** button at the left bottom corner of the detailed page to get and download the pdf:
 
