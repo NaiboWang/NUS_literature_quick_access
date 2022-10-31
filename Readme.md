@@ -82,28 +82,26 @@ E.g., https://onepetro.org/SJ/article-abstract/25/05/2778/454145/Automated-Well-
 ![](media/findit.png)
 ![](media/spe.png)
 
-# For websites that cannot direct open PDF by this tool and Endnote:
+Below are instructions about how to add the **Find it! @NUS Library** button to your Google Scholar page:
 
-Some websites (some small journals) may not show the **View PDF** button at the left bottom corner of the page nor show the directly download pdf button, then you need to do the following to quickly open and download the PDF.
-
-## 1. Add "NUS" to your Google Scholar Library Links (can just click the following link):
+### 1. Add "NUS" to your Google Scholar Library Links (can just click the following link):
 
 https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,5#2
 
 ![](media/settings.png)
 ![](media/library_links.png)
 
-## 2. Search the paper that needs to be downloaded at **Google Scholar** page:
+### 2. Search the paper that needs to be downloaded at **Google Scholar** page:
 
 And you will find a link text of **Find it! @NUS Library**, click it:
 
 ![](media/findit.png)
 
-## 3. Click the **Click to get Full Text** button (or Read Chapter button, depends on the paper contents):
+### 3. Click the **Click to get Full Text** button (or Read Chapter button, depends on the paper contents):
 
 ![](media/clicktoget.png)
 
-## 4. Then you will have two options to open the final pdf:
+### 4. Then you will have two options to open the final pdf:
 
 ### 4.1 Manually click the login button every time you open the browser (but as long as you don't close the browser, the process will appear only once):
 
@@ -130,11 +128,11 @@ Click the **Save** button:
 
 Then after you click the **Click to get Full Text** button, the tool will help you to automatically click the **Accept** button.
 
-### 4.3 Click the **View PDF** button at the top center of the page (or somewhere else, depends on the specific journal website):
+### 4.3 Then you can click the **View PDF** button at the top center of the page (or somewhere else, depends on the specific journal website):
 
 ![](media/vpdf.png)
 
-Then you can open and download the pdf page.
+And you can open and download the pdf page thereafter.
 
 # Other Notes
 
