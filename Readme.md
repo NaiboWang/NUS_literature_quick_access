@@ -22,6 +22,8 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 If you choose not to install Endnote Click, you will need to click two more times of mouse to download the pdf for 15% of the journals (mostly not mainstream), but mainstream journals are not affected even you don't install (such as IEEE, ACM, etc).
 
+Click here to install endnote click:
+
 https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc?hl=en
 
 ## 3. Register and Login Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$  (Optional):
@@ -30,7 +32,7 @@ https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolh
 
 ## 4.1 For NUS Ph.D. Students, install the following  TamperMonkey Script:
 
-https://greasyfork.org/en/scripts/453866-automatically-literature-validation-for-nus-ph-d-student-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
+https://greasyfork.org/en/scripts/453866-automatically-literature-validation-for-nus-ph-d-student-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
 ## 4.2 For NUS Staffs, install the following TamperMonkey Script:
 
