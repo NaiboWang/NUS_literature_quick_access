@@ -1,12 +1,12 @@
 # NUS Literature Quick Access
-For National University of Singapore's students and staffs, just with one single click you can open any paper without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links.
+For National University of Singapore's students and staffs, just with one single click you can open any papers without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links.
 
-# Demo (If the animation does not play automatically, click the $Play$ button in the upper right corner of the picture to play it)
+# Demo (If the animation does not play automatically, click the Play button in the upper right corner of the picture to play it)
 
-## Before using this tool, you need to click many times to get the final pdf (and this is even the version you already configured the NUS library link):
-![Before.gif](media/Before.gif)
+## Before using this tool, you need to click many times to get the final pdf:
+![Before.gif](Before.gif)
 ## After using this tool, just click once and you will see the pdf and download it:
-![After.gif](media/After.gif)
+![After.gif](After.gif)
 
 
 # Installation
@@ -18,8 +18,8 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc?hl=en
 
 ## 3. Register Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$:
-![](media/endnote_click.png)
-![](media/endnote_ins.png)
+![](endnote_click.png)
+![](endnote_ins.png)
 
 ## 4.1 For NUS Ph.D. Students, install the following  TamperMonkey Script:
 
@@ -31,80 +31,72 @@ https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for
 
 ## 5. Let your browser to save and autofill your password:
 
-Open any paper detail page (such as: https://ieeexplore.ieee.org/abstract/document/8737464), and wait the page to automatically pop up the login page, **input your username and password**:
+Enter any paper detail page (such as: https://ieeexplore.ieee.org/abstract/document/8737464), and wait the page to automatically pop up the login page, **input your username and password**:
 
-![](media/save.png)
+![](save.png)
 
 Sometimes the popup webpages may be like this, just input your username (without nusstu/ or nusttf/) and password only once every time you open a new browser:.
 
-![](media/popup.png)
+![](popup.png)
 
-Then, **let the browser save your password**.
-![](media/savepass.png)
+Then, **let the browser the save your password**, so that you don't need to input your password in the future every time and the tool will help you to automatically click the $Login$ and $Accept$ button.
+![](savepass.png)
 
 
 ## 5. Enjoy!
 
-Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the *Left Bottom* Corner of the current web page and then you can download the pdf at the *Top Right* Corner.
+Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the Left Bottom Corner of the current web page and then you can download the pdf and the Top Right Corner.
 
-![](media/viewpdf.png)
-![](media/download.png)
+![](viewpdf.png)
+![](download.png)
 
-After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites.
+After test, this tool along with Endnote work for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most main-stream literature websites.
 
 # For websites like *ScienceDirect* that cannot direct open PDF by this tool and Endnote:
 
 Some websites (very few but like *ScienceDirect/Elsevier* or some small journals) may not show the **View PDF** button at the left bottom corner of the page, then you need to do the following to quickly open and download the PDF.
 
-## 1. Add "NUS" to your Google Scholar Library Links (can just click the following link):
+## 1. Add "NUS" to your Google Scholar Library Links (Can just click the following link):
 
 https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,5#2
 
-![](media/settings.png)
-![](media/library_links.png)
+![](settings.png)
+![](library_links.png)
 
 ## 2. Search the paper that needs to be downloaded at **Google Scholar** page:
 
 And you will find a link text of **Find it! @NUS Library**, click it:
 
-![](media/findit.png)
+![](findit.png)
 
-## 3. Click the **Click to get Full Text** button (or Read Chapter button, depends on the paper contents):
+## 3. Click the **Click to get Full Text** button:
 
-![](media/clicktoget.png)
+![](clicktoget.png)
 
 ## 4. Then you will have two options to open the final pdf:
 
 ### 4.1 Manually click the login button every time:
 
-![](media/manually.png)
-
 And this tool with automatically help you to click the **Accept** button in the following page.
 
-### 4.2 Save your username and password at the TamperMonkey Script and then you don't need to click the **Login** button every time.
+![](manually.png)
+
+### 4.2 Save your user name and password at the TamperMonkey Script and then you don't need to click the **Login** button every time.
 
 If you choose to save your username and password into the script, then you don't need to click the **Login** button every time, and the tool will help you to automatically click the **Accept** button too.
 
 To do this, click the TamperMonkey icon in the upper right corner of the browser, and click the **NUS Literature Quick Access** script, and then click the **Edit** button:
 
-![](media/icon.png)
-![](media/ticon.png)
-![](media/dashboard.png)
+![](icon.png)
+![](ticon.png)
+![](.png)
 Then you will see the following page, **modify the username and password variables to your own username and password**: (Note: the username is your NUSNET ID, not the NUSNET email address)
 
-![](media/edit.png)
+![](edit.png)
 
-Click the **Save** button:
+Click the **Save** button, and then you can enjoy the tool:
 
-![](media/savebtn.png)
-
-Then after you click the **Click to get Full Text** button, the tool will help you to automatically click the **Accept** button.
-
-### 4.3 Click the **View PDF** button at the top center of the page (or somewhere else, depends on the specific journal website):
-
-![](media/vpdf.png)
-
-Then you can open and download the pdf page.
+![](savebtn.pngW)
 
 # Other Notes
 
