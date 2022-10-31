@@ -3,7 +3,7 @@ For National University of Singapore's students and staffs, just with one single
 
 # Acknowledgement
 
-Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lushl9301)
+Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lushl9301/Auto-Paper-Access)
  in the development of this project.
 
 # Demo (If the animation does not play automatically, click the $Play$ button in the upper right corner of the picture to play it)
@@ -12,32 +12,6 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 ![Before.gif](media/Before.gif)
 ## After using this tool, just click once and you will see the pdf and download it:
 ![After.gif](media/After.gif)
-
-
-# More Cases
-
-## 1. For IEEE Xplore, ACM Digital Library, Springer Link, Science Direct, Nature, etc (Mainstream journals):
-
-Just open the detail page, wait for 3 seconds and click the **View PDF** button to get and download the pdf (you only need to login once when you first open your browser, and the login process can also be automated, as long as you follow the instruction of this tool).
-
-![](media/IEEEpdf.png)
-
-## 2. For some unpopular journals, click the **View PDF** button at the left bottom corner of the detailed page to get and download the pdf:
-
-E.g., https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001736
-
-![](media/unpopularpdf.png)
-
-Also, you can click the **View PDF** button at any page as long as the button appears such as in IEEE, ACM, etc.
-
-The EndNote extension will help you to save all papers you have browsed to your EndNote library, so it is convenient for you to manage your papers, if you like.
-
-## 3. If both way 1 and way 2 don't work, you will need to click the **Find it! @NUS Library** at the **Google Scholar** page to login and download the pdf:
-
-E.g., https://onepetro.org/SJ/article-abstract/25/05/2778/454145/Automated-Well-Log-Processing-and-Lithology
-
-![](media/findit.png)
-![](media/spe.png)
 
 # Installation
 
@@ -81,6 +55,31 @@ Then every time in the future, you just need to enter the paper detail page and 
 ![](media/download.png)
 
 After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites.
+
+# Use Cases
+
+## 1. For IEEE Xplore, ACM Digital Library, Springer Link, Science Direct, Nature, etc (mainstream journals/conferences):
+
+Just open the detail page, wait for 3 seconds and click the **View PDF** button to get and download the pdf (you only need to login once when you first open your browser, and the login process can also be automated, as long as you follow the instruction of this tool).
+
+![](media/IEEEpdf.png)
+
+## 2. For some unpopular journals, click the **View PDF** button at the left bottom corner of the detailed page to get and download the pdf:
+
+E.g., https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001736
+
+![](media/unpopularpdf.png)
+
+Also, you can click the **View PDF** button at any page as long as the button appears such as in IEEE, ACM, etc.
+
+The EndNote extension will help you to save all papers you have browsed to your EndNote library, so it is convenient for you to manage your papers, if you like.
+
+## 3. If both way 1 and way 2 don't work, you will need to click the **Find it! @NUS Library** at the **Google Scholar** page to login and download the pdf:
+
+E.g., https://onepetro.org/SJ/article-abstract/25/05/2778/454145/Automated-Well-Log-Processing-and-Lithology
+
+![](media/findit.png)
+![](media/spe.png)
 
 # For websites that cannot direct open PDF by this tool and Endnote:
 
