@@ -49,12 +49,13 @@ Then, **let the browser save your password**.
 
 ## 5. Enjoy!
 
-Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the *Left Bottom* Corner of the current web page and then you can download the pdf at the *Top Right* Corner.
+See the next section for more details to get and download PDFs at various journal websites.
+<!-- Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the *Left Bottom* Corner of the current web page and then you can download the pdf at the *Top Right* Corner.
 
 ![](media/viewpdf.png)
 ![](media/download.png)
 
-After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites.
+After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites. -->
 
 # Use Cases
 
