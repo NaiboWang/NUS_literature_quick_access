@@ -34,9 +34,17 @@ https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolh
 
 https://greasyfork.org/en/scripts/453866-automatically-literature-validation-for-nus-ph-d-student-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
+Alternative Address:
+
+https://openuserjs.org/scripts/NaiboWang/Automatically_Literature_Validation_for_NUS_Ph.D._Student_%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
+
 ## 4.2 For NUS Staffs, install the following TamperMonkey Script:
 
 https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-staff-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
+
+Alternative Address:
+
+https://openuserjs.org/scripts/NaiboWang/Automatically_Literature_Validation_for_NUS_Staff_%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
 ![](media/install.png)
 ![](media/autoinstall.png)
