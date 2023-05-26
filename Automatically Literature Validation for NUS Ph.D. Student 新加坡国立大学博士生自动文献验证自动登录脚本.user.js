@@ -33,6 +33,8 @@
 // @match      *://www.cambridge.org/*
 // @match      *://www.pnas.org/*
 // @match      *://royalsocietypublishing.org/*
+// @match      *://heinonline.org/*
+// @match      *://www.jstor.org/*
 // @description 2022/02/12 22:00:29
 // ==/UserScript==
  
