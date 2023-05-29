@@ -35,6 +35,7 @@
 // @match      *://royalsocietypublishing.org/*
 // @match      *://heinonline.org/*
 // @match      *://www.jstor.org/*
+// @match      *://www.spiedigitallibrary.org/*
 // @description 2022/02/12 22:00:29
 // ==/UserScript==
  
