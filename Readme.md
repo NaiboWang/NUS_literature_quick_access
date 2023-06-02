@@ -8,6 +8,8 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 
 # Demo (If the animation does not play automatically, click the $Play$ button in the upper right corner of the picture to play it)
 
+![image](https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/1813bc26-0af6-436c-973d-97b7de6495c2)
+
 ## Before using this tool, you need to click many times to get the final pdf (and this is even the version you already configured the NUS library link):
 ![Before.gif](media/Before.gif)
 ## After using this tool, just click once and you will see the pdf and download it:
