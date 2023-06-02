@@ -1,5 +1,5 @@
 # NUS Literature Quick Access
-For National University of Singapore's students and staffs, just with one single click you can open any paper without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links.
+For National University of Singapore's students and staffs, just with one single click you can open any paper without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links. Works for all NUS Staffs and Students.
 
 # Acknowledgement
 
@@ -30,15 +30,7 @@ https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolh
 ![](media/endnote_click.png)
 ![](media/endnote_ins.png)
 
-## 4.1 For NUS Ph.D. Students, install the following  TamperMonkey Script:
-
-https://greasyfork.org/en/scripts/453866-automatically-literature-validation-for-nus-ph-d-student-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
-
-Alternative Address:
-
-https://openuserjs.org/scripts/NaiboWang/Automatically_Literature_Validation_for_NUS_Ph.D._Student_%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
-
-## 4.2 For NUS Staffs, install the following TamperMonkey Script:
+## 4. Install Script by clicking the following link:
 
 https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-staff-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
