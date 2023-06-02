@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        Automatically Literature Validation for NUS Ph.D. Student 新加坡国立大学博士生自动文献验证自动登录脚本
+// @name        Automatically Literature Validation for NUS 新加坡国立大学自动文献验证自动登录脚本
 // @namespace   NUS
 // @grant       none
-// @version     4.0
+// @version     5.0
 // @license MIT
 // @author      Naibo Wang
 // @match       proxylogin.nus.edu.sg/libproxy1/public/*
@@ -339,7 +339,7 @@
         'use strict';
     var url = window.location.href;
     console.log("url:",url);
-    var username = ""; //input your username here to access the website which need to click the "Find it! @NUS Library" Link without manually click
+    var username = ""; //input your username here (such as nusstu\\e0000001) to access the website which need to click the "Find it! @NUS Library" Link without manually click
     var password = ""; //input your password here to access the website which need to click the "Find it! @NUS Library" Link without manually click
     if(url.indexOf("vafs") >=0){
         if(username!=""){
