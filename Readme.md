@@ -1,6 +1,12 @@
 # NUS Literature Quick Access
 For National University of Singapore's students and staffs, just with one single click you can open any paper without the need to manually login, input password, click $Login$ and $Accept$ button or click many many times of web links. Works for all NUS Staffs and Students.
 
+## Update
+
+New version is fit for new NUS Login Interface and we added **all 300+ literature databases** from NUS library!
+
+<img src="https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/d66ec93c-60a7-4130-84a9-ef701241ad54" width=30%/>
+
 # Acknowledgement
 
 Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lushl9301/Auto-Paper-Access)
@@ -9,6 +15,7 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 # Demo (If the animation does not play automatically, click the $Play$ button in the upper right corner of the picture to play it)
 
 ![image](https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/1813bc26-0af6-436c-973d-97b7de6495c2)
+![image](https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/a849711c-6e07-4a65-94f9-cb0c24b716b9)
 
 ## Before using this tool, you need to click many times to get the final pdf (and this is even the version you already configured the NUS library link):
 ![Before.gif](media/Before.gif)
