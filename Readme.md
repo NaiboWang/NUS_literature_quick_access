@@ -18,30 +18,26 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 ## 1. Install Tampermonkey:
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-## 2. Install Endnote Click (Optional):
 
-If you choose not to install Endnote Click, you will need to click two more times of mouse to download the pdf for 15% of the journals (mostly not mainstream), but mainstream journals are not affected even you don't install (such as IEEE, ACM, etc).
 
-Click here to install endnote click:
+## 2. Install Script by clicking the following link:
 
-https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc?hl=en
-
-## 3. Register and Login Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$  (Optional):
-![](media/endnote_click.png)
-![](media/endnote_ins.png)
-
-## 4. Install Script by clicking the following link:
-
-https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-staff-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
-
-Alternative Address:
-
-https://openuserjs.org/scripts/NaiboWang/Automatically_Literature_Validation_for_NUS_Staff_%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%81%8C%E5%B7%A5%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
+https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC
 
 ![](media/install.png)
 ![](media/autoinstall.png)
 
-## 5. Let your browser save and autofill your password:
+## 3. Enjoy!
+
+See the next section for more details to get and download PDFs at various journal websites.
+<!-- Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the *Left Bottom* Corner of the current web page and then you can download the pdf at the *Top Right* Corner.
+
+![](media/viewpdf.png)
+![](media/download.png)
+
+After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites. -->
+
+## (Optional) 4. Let your browser save and autofill your password:
 
 Open any paper detail page (such as: https://ieeexplore.ieee.org/abstract/document/8737464), and wait the page to automatically pop up the login page, **input your username and password**:
 
@@ -54,16 +50,17 @@ Sometimes the popup webpages may be like this, just input your username (without
 Then, **let the browser save your password**.
 ![](media/savepass.png)
 
+## (Optional) 5. Install Endnote Click:
 
-## 6. Enjoy!
+If you choose not to install Endnote Click, you will need to click two more times of mouse to download the pdf for 15% of the journals (mostly not mainstream), but mainstream journals are not affected even you don't install (such as IEEE, ACM, etc).
 
-See the next section for more details to get and download PDFs at various journal websites.
-<!-- Then every time in the future, you just need to enter the paper detail page and click the **View PDF** button in the *Left Bottom* Corner of the current web page and then you can download the pdf at the *Top Right* Corner.
+Click here to install endnote click:
 
-![](media/viewpdf.png)
-![](media/download.png)
+https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc?hl=en
 
-After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites. -->
+## (Optional) 6. Register and Login Endnote Click with institution specified as $National$ $University$ $of$ $Singapore$  (Optional):
+![](media/endnote_click.png)
+![](media/endnote_ins.png)
 
 # Use Cases
 
