@@ -26,7 +26,7 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 
 ## 1. Install Tampermonkey:
 
-[Click here to install Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo){:target="_blank" rel="noopener"}
+[Click here to install Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo){:target="_blank"}
 
 
 
