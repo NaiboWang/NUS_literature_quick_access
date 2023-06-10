@@ -2,9 +2,10 @@
 // @name        Automatically Literature Validation for NUS 新加坡国立大学自动文献验证自动登录脚本
 // @namespace   NUS
 // @grant       none
-// @version     5.0
+// @version     5.3
 // @license MIT
 // @author      Naibo Wang
+// @match       login.libproxy1.nus.edu.sg/*
 // @match       proxylogin.nus.edu.sg/libproxy1/public/*
 // @match       *://vafs.nus.edu.sg/*
 // @match       proxylogin-nus-edu-sg.libproxy1.nus.edu.sg/libproxy1*
@@ -350,11 +351,9 @@
         }
         setTimeout(function(){document.querySelector("#submitButton").click();},500);
     }
-    if(url.indexOf("nus") >=0 || url.indexOf("serialssolutions") >=0){
-        setTimeout(function(){       
+    if(url.indexOf("nus") >=0 || url.indexOf("proxy") >=0){
             setTimeout(function(){document.querySelector("#aup").click()},500);
             setTimeout(function(){document.querySelector("#btn_nus").click()},1000);
-        },500);
     } else {
         location.href = "http://libproxy1.nus.edu.sg/login?url=" + location.href;
     }
