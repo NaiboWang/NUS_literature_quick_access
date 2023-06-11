@@ -32,7 +32,7 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 
 ## 2. Install Script by clicking the following link:
 
-(CLick here to install Script)[https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC]
+[CLick here to install Script](https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC)
 
 ![](media/install.png)
 ![](media/autoinstall.png)
