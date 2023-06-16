@@ -12,13 +12,14 @@ New version is fit for new NUS Login Interface and we added **all 300+ literatur
 Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lushl9301/Auto-Paper-Access)
  in the development of this project.
 
-# Demo (If the animation does not play automatically, click the $Play$ button in the upper right corner of the picture to play it)
+# Demo
 
 ![image](https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/1813bc26-0af6-436c-973d-97b7de6495c2)
 ![image](https://github.com/NaiboWang/NUS_literature_quick_access/assets/30287768/a849711c-6e07-4a65-94f9-cb0c24b716b9)
 
 ## Before using this tool, you need to click many times to get the final pdf (and this is even the version you already configured the NUS library link):
 ![Before.gif](media/Before.gif)
+
 ## After using this tool, just click once and you will see the pdf and download it:
 ![After.gif](media/After.gif)
 
@@ -28,11 +29,9 @@ Thanks to Dr. Shengliang Lu's original script [@lushl9301](https://github.com/lu
 
 [Click here to install Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
+## 2. Install the script by clicking the following link:
 
-
-## 2. Install Script by clicking the following link:
-
-[CLick here to install Script](https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC)
+[Click here to install Script](https://greasyfork.org/en/scripts/453867-automatically-literature-validation-for-nus-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E6%96%87%E7%8C%AE%E9%AA%8C%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E8%84%9A%E6%9C%AC)
 
 ![](media/install.png)
 ![](media/autoinstall.png)
@@ -45,7 +44,7 @@ See the next section for more details to get and download PDFs at various journa
 ![](media/viewpdf.png)
 ![](media/download.png)
 
-After test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites. -->
+After the test, this tool along with $Endnote$ extension worked for websites like **IEEE, ACM Digital Library, Springer, etc.**, basically most mainstream literature websites. -->
 
 ## (Optional) 4. Let your browser save and autofill your password:
 
