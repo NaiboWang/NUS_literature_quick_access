@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        Automatically Literature Validation for NUS 新加坡国立大学自动文献验证自动登录脚本
+// @name        Automatically Literature Validation for NUS Student 新加坡国立大学自动文献验证自动登录脚本（学生）
 // @namespace   NUS
 // @grant       none
-// @version     5.3
+// @version     5.4
 // @license MIT
 // @author      Naibo Wang
 // @match       login.libproxy1.nus.edu.sg/*
